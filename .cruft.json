@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/woltapp/wolt-python-package-cookiecutter",
+  "commit": "6669a067eeaaed3bee84312428a3e94cd13295f2",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author_name": "Mateo",
+      "author_email": "mateosat3@gmail.com",
+      "github_username": "mateosat3",
+      "project_name": "cli",
+      "project_slug": "cli",
+      "package_name": "cli",
+      "project_short_description": "Functional cli",
+      "_template": "https://github.com/woltapp/wolt-python-package-cookiecutter"
+    }
+  },
+  "directory": null
+}
