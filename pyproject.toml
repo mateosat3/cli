@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "cli"
-version = "0.1.0"
+version = "0.1.2"
 description = "Functional cli"
 authors = [
     "Mateo <mateosat3@gmail.com>",
@@ -96,4 +96,7 @@ check_untyped_defs = true
 show_error_codes = true
 
 [tool.poetry.scripts]
-greetings = "src.cli.main:main"
+greetings = "cli.main:main"
+
+
+
